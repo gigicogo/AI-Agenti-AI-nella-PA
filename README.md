@@ -17,15 +17,6 @@ Il partecipante è parte del gruppo che deve valutare una proposta commerciale *
 
 Al termine compare una **scheda di restituzione personalizzata**, stampabile in PDF dal browser e scaricabile come file Markdown.
 
-## Pubblicazione su GitHub Pages
-
-1. Crea un repository GitHub, ad esempio `AI-Decidi-se-autorizzare-agente`.
-2. Carica `index.html` nella **radice** del repository (puoi caricare anche questo README e la guida docente).
-3. In **Settings → Pages** seleziona **Deploy from a branch**, ramo `main` e cartella `/ (root)`.
-4. Dopo la pubblicazione, il link avrà di norma la struttura `https://<nomeutente>.github.io/<nome-repository>/`.
-5. Inserisci il link o il QR code nella slide dell'esercitazione. L'URL effettivo dipende dal repository che avrai creato.
-
-Puoi anche aprire `index.html` direttamente nel browser: funziona senza connessione Internet.
 
 ## Dati e sicurezza
 
