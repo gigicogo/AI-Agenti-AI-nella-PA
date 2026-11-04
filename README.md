@@ -1,6 +1,6 @@
 # 🤖 Sei tu a decidere: autorizzi questo agente AI?
 
-**Sei tu a decidere** è il laboratorio finale individuale del **Modulo B — Etica e responsabilità degli agenti AI nella Pubblica Amministrazione**.
+**Sei tu a decidere** è il laboratorio finale individuale del **Modulo — Etica e responsabilità degli agenti AI nella Pubblica Amministrazione**.
 
 Il partecipante entra nel gruppo di valutazione di un ente e deve esaminare una proposta commerciale interamente inventata: **CivicaFlow AI**, un agente AI per la gestione delle segnalazioni dei cittadini. L’obiettivo non è sviluppare l’agente, ma decidere quali prove chiedere, quali limiti stabilire, come reagire a un incidente e se autorizzare — o meno — una sperimentazione.
 
